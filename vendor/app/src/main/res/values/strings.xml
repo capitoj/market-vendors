@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Market Vendors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_accept">Accept</string>
+    <string name="title_activity_vendor_stall_registration">VendorStallRegistration</string>
+    <string name="title_activity_vendor_postings">Market Vendors</string>
+    <string name="title_activity_market_vendors">Market Vendors</string>
+    <string name="title_activity_vendor_item">Vendor Item</string>
+
+</resources>

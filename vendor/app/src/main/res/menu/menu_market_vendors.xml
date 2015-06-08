@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="org.grameen.vendor.MarketVendors">
+
+    <!--
+    <item android:id="@+id/vendor_item_accept"
+        android:title="@string/action_accept"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_accept"
+        android:showAsAction="always" />
+        -->
+
+</menu>
