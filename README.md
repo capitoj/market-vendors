@@ -4,7 +4,7 @@
 #The backend is contained in the market-vendor directory and is developed using PHP and can be accessed through the following URL
 #Copy and paste it to the web apps directory of your apache server.
 #You should be able to access it with the following url
-#http://<YOUR_IP_ADDRESS>/market-vendor
+#http://YOUR_IP_ADDRESS/market-vendor
 #
 #DATABASE
 #The database in use is MySQL and a dump of it can be found within the mysql directory with sample data
