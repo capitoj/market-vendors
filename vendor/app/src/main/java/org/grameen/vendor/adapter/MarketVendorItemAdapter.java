@@ -13,7 +13,7 @@ import org.grameen.vendor.data.ItemInfo;
 import java.util.List;
 
 /**
- * Created by niyetu on 6/8/15.
+ * Created by Joseph Capito on 6/8/15.
  */
 public class MarketVendorItemAdapter extends ArrayAdapter<ItemInfo> {
 

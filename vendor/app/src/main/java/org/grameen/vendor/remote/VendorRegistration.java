@@ -10,7 +10,7 @@ import java.net.URLConnection;
 import java.net.URLEncoder;
 
 /**
- * Created by Irama on 6/6/2015.
+ * Created by Joseph Capito on 6/6/2015.
  */
 public class VendorRegistration extends AsyncTask<String, Integer, String> {
 

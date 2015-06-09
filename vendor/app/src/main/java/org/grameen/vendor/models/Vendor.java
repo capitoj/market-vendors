@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import org.grameen.vendor.database.Sqlite;
 
 /**
- * Created by Irama on 6/5/2015.
+ * Created by Joseph Capito on 6/5/2015.
  */
 public class Vendor {
 

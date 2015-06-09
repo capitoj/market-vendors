@@ -11,7 +11,7 @@ import java.net.URLConnection;
 import java.net.URLEncoder;
 
 /**
- * Created by niyetu on 6/7/15.
+ * Created by Joseph Capito on 6/7/15.
  */
 public class MarketVendorItem extends AsyncTask<String, Integer, String> {
 

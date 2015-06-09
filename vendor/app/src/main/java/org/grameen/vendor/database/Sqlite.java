@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteDatabase;
 import org.grameen.vendor.utils.Constants;
 
 /**
- * Created by Irama on 6/5/2015.
+ * Created by Joseph Capito on 6/5/2015.
  */
 public class Sqlite {
 

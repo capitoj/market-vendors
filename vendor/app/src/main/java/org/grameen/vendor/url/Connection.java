@@ -13,7 +13,7 @@ import java.net.InetAddress;
 import java.net.URLConnection;
 
 /**
- * Created by Irama on 6/6/2015.
+ * Created by Joseph Capito on 6/6/2015.
  */
 public class Connection {
 

@@ -26,7 +26,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
 /**
- * Created by Irama on 6/6/2015.
+ * Created by Joseph Capito on 6/6/2015.
  */
 public class XmlParser {
 

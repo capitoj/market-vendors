@@ -3,7 +3,7 @@ package org.grameen.vendor.utils;
 import java.util.Random;
 
 /**
- * Created by Irama on 6/5/2015.
+ * Created by Joseph Capito on 6/5/2015.
  */
 public class StringUtil {
 

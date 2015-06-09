@@ -1,7 +1,7 @@
 package org.grameen.vendor.data;
 
 /**
- * Created by niyetu on 6/7/15.
+ * Created by Joseph Capito on 6/7/15.
  */
 public class UnitInfo {
 
